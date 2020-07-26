@@ -2,7 +2,11 @@
 
 - 🌱 I’m currently learning: 
 
+<!--
 [![Latest Blog Post](https://waylonwalker.com/latest.png)](https://yallalabs.com/)
+-->
+
+![image title](https://rushter.com/counter.svg)
 
 
 
