@@ -9,10 +9,12 @@
 )![jenkins](https://camo.githubusercontent.com/48ba51d588576a885e80bd1ee82e0975111991a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732532302d2532333243353236332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465
 )
 
+- 📫 How to reach me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lotfiwaderni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/YallaLabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yallalabs.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://www.docker.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://kubernetes.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg' alt='jenkins' height='40'>](https://www.jenkins.io/) 
+
 <!--
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://www.docker.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://kubernetes.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg' alt='jenkins' height='40'>](https://www.jenkins.io/) 
 
 -->
 <!--
