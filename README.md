@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: 
 
-[![Latest Blog Post]https://waylonwalker.com/latest.png](https://yallalabs.com/)
+[![Latest Blog Post](https://waylonwalker.com/latest.png)](https://yallalabs.com/)
 
 
 
