@@ -1,4 +1,5 @@
 ![image title](https://rushter.com/counter.svg)
+![Profile views](https://gpvc.arturio.dev/faudeltn)
 ### Hi there 👋
 
 - 🌱 I’m currently learning:
