@@ -10,10 +10,11 @@
 )
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://www.docker.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://kubernetes.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jenkins.svg' alt='jenkins' height='40'>](https://www.jenkins.io/) 
+<!--
 
----
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](Kubernetes) 
----
+
+-->
 <!--
 
 ---
